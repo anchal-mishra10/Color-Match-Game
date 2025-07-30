@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-align: center;
+}
+h2{
+    padding-top: 15px;
+}
+.outerdiv{        
+    display: flex;
+    justify-content: center;    
+}
+.btn{
+    margin: 2rem;
+    height: 100px;
+    width: 100px;
+    border: 3px solid rgb(57, 72, 71);
+    border-radius: 15px;    
+}  
+
+
+.pink{
+    background-color: palevioletred;
+}
+
+.orange{
+    background-color: rgb(206, 108, 59);
+}
+.green{
+    background-color: rgb(173, 216, 112);
+}
+.blue{
+    background-color: rgb(112, 173, 216) ;
+}
+
+.flash{
+    background-color: white;
+}
